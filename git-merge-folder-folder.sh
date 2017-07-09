@@ -1,4 +1,4 @@
-# merge one repository to another repository
+# merge folder from one repository to folder from another repository
 
 # $1 git path server `from` repositoy
 # $2 `from` repository name
